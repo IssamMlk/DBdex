@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Goku",
+    "race": "saiyen",
+    "transformation": "oui"
+  },
+  {
+    "name": "Vegeta",
+    "race": "saiyen",
+    "transformation": "oui"
+  },
+  {
+    "name": "Gohan",
+    "race": "metisse",
+    "transformation": "oui"
+  },
+  {
+    "name": "Broly",
+    "race": "saiyen",
+    "transformation": "oui"
+  },
+  {
+    "name": "trunks",
+    "race": "metisse",
+    "transformation": "oui"
+  },
+  {
+    "name": "c18",
+    "race": "android",
+    "transformation": "non"
+  },
+  {
+    "name": "krillin",
+    "race": "humain",
+    "transformation": "non"
+  },
+  {
+    "name": "Kaio",
+    "race": "Dieu",
+    "transformation": "non"
+  },
+  {
+    "name": "Piccolo",
+    "race": "Namek",
+    "transformation": "non"
+  }
+]
