@@ -1,0 +1,28 @@
+[
+  {
+    "Id": 1,
+    "Nom": "Son Goku",
+    "ImageURL": "https://upload.wikimedia.org/wikipedia/it/4/48/Son_Goku_-_Dragon_Ball_Kai.png",
+    "Status": "Hero de l'histoire",
+    "Race": "Saiyen",
+    "Planete d'origine": "Vegeta",
+    "Univers": 7,
+    "Groupe": "Z-fighter",
+    "Technique": "Kame hame ha, Teleportation,Kaio-ken, Genki dama, Zanzoken, Buku Jutsu, Taiyoken, Kienzan, mafuba, migate no gokui",
+    "Capacite Speciale": "Gagne en puissance a chaque fois qu'il frole la mort",
+    "Description": "Son Goku est le principal protagoniste des mangas Dragon Ball et Dragon Ball Super, et des leurs adaptations animees, Dragon Ball et Dragon Ball Z / Dragon Ball Kai, puis Dragon Ball Super, ainsi que de la suite anim�e des deux premi�res s�ries, Dragon Ball GT.\n\nDernier orphelin exil� de la d�funte plan�te Vegeta, il atterrit sur Terre o� il grandit avec son grand-p�re adoptif puis seul, apr�s avoir tu� accidentellement celui-ci. Son aventure commence le jour o� il rencontre Bulma, une jeune aventuri�re, qui l'invite � chercher les Dragon Balls..."
+  },
+  {
+    "Id": 2,
+    "Nom": "Son Goku SSJ1",
+    "ImageURL": "https://clipart4biz.com/images/goku-transparent-ssj1-5.png",
+    "Status": "Hero de l'histoire",
+    "Race": "Saiyen",
+    "Planete d'origine": "Vegeta",
+    "Univers": 7,
+    "Groupe": "Z-fighter",
+    "Technique": "Kame hame ha, Teleportation, Zanzoken, Buku Jutsu, Taiyoken, Kienzan, mafuba",
+    "Capacite Speciale": "Augmente de 10x la force de base",
+    "Description": "Son Goku apres avoir vu sous ses yeux l'assassinat de Krilin par Freezer se transforme alors en Super Saiyan."
+  }
+]
