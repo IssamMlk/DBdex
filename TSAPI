@@ -1,0 +1,15 @@
+[
+  {
+  "Goku":[
+  "T0": "Son Goku",
+  "T1": "Son Goku SSJ1",
+  "T2": "Son Goku SSJ2",
+  "T3": "Son Goku SSJ1"
+  ],
+  "Vegeta":[
+  "T0":"Vegeta",
+  "T1":"Vegeta SSJ",
+  "T2":"Majin Vegeta"
+  ]
+  }
+]
