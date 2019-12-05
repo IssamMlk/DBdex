@@ -10,9 +10,7 @@
     "Groupe": "Z-fighter",
     "Technique": "Kame hame ha, Teleportation,Kaio-ken, Genki dama, Zanzoken, Buku Jutsu, Taiyoken, Kienzan, mafuba, migate no gokui",
     "Capacite Speciale": "Gagne en puissance a chaque fois qu'il frole la mort",
-    "Description": "Son Goku est le principal protagoniste des mangas Dragon Ball et Dragon Ball Super, et des leurs adaptations anim�es, Dragon Ball et Dragon Ball Z / Dragon Ball Kai, puis Dragon Ball Super, ainsi que de la suite anim�e des deux premi�res s�ries, Dragon Ball GT.\n\nDernier orphelin exil� de la d�funte plan�te Vegeta, il atterrit sur Terre o� il grandit avec son grand-p�re adoptif puis seul, apr�s avoir tu� accidentellement celui-ci. Son aventure commence le jour o� il rencontre Bulma, une jeune aventuri�re, qui l'invite � chercher les Dragon Balls...",
-    "ImageURL2": "https://comicvine1.cbsistatic.com/uploads/original/11130/111303322/6210806-5761997597-latest",
-    "ImageURL3": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ee2588c0-3c9a-4519-a769-a71f66ca1fa9/d30tl4f-80c9653c-538e-487a-9919-dca3d0cc86c0.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sIm9iaiI6W1t7InBhdGgiOiIvZi9lZTI1ODhjMC0zYzlhLTQ1MTktYTc2OS1hNzFmNjZjYTFmYTkvZDMwdGw0Zi04MGM5NjUzYy01MzhlLTQ4N2EtOTkxOS1kY2EzZDBjYzg2YzAucG5nIn1dXX0.AGIDIGfT7yYcytObNoTmmm8ofpnv3e_jAfoa4BEo4Zk"
+    "Description": "Son Goku est le principal protagoniste des mangas Dragon Ball et Dragon Ball Super, et des leurs adaptations animees, Dragon Ball et Dragon Ball Z / Dragon Ball Kai, puis Dragon Ball Super, ainsi que de la suite anim�e des deux premi�res s�ries, Dragon Ball GT.\n\nDernier orphelin exil� de la d�funte plan�te Vegeta, il atterrit sur Terre o� il grandit avec son grand-p�re adoptif puis seul, apr�s avoir tu� accidentellement celui-ci. Son aventure commence le jour o� il rencontre Bulma, une jeune aventuri�re, qui l'invite � chercher les Dragon Balls..."
   },
   {
     "Id": 2,
@@ -25,14 +23,12 @@
     "Groupe": "Z-fighter",
     "Technique": "Kame hame ha, Teleportation, Zanzoken, Buku Jutsu, Taiyoken, Kienzan, mafuba",
     "Capacite Speciale": "Augmente de 10x la force de base",
-    "Description": "Son Goku apres avoir vu sous ses yeux l'assassinat de Krilin par Freezer se transforme alors en Super Saiyan.",
-    "ImageURL2": "https://vignette.wikia.nocookie.net/dragonball/images/2/26/Super_Saiyan_%28Artwork%29.png/revision/latest?cb=20181121170754&path-prefix=fr",
-    "ImageURL3": "https://tse1.mm.bing.net/th?id=OIP.t8Bss3XCrX-OyDM69IPrwwHaKJ&pid=Api"
+    "Description": "Son Goku apres avoir vu sous ses yeux l'assassinat de Krilin par Freezer se transforme alors en Super Saiyan."
   },
   {
     "Id": 3,
     "Nom": "Son Goku SSJ2",
-    "ImageURL": "https://media.tenor.co/images/45799a372c4f91dacd0f139e27db57c9/raw",
+    "ImageURL": "",
     "Status": "Hero de l'histoire",
     "Race": "Saiyen",
     "Planete d'origine": "Vegeta",
@@ -40,14 +36,12 @@
     "Groupe": "Z-fighter",
     "Technique": "Kame hame ha, Teleportation, Zanzoken, Buku Jutsu, Taiyoken, Kienzan, mafuba",
     "Capacite Speciale": "Augmente de 50x la force de base",
-    "Description": "???",
-    "ImageURL2": "https://tse4.mm.bing.net/th?id=OIP.GHfioWzVrMlxxIyur7xwSgHaHl&pid=Api",
-    "ImageURL3": "http://pixelartmaker.com/art/788402e18269620.png"
+    "Description": "???"
   },
   {
     "Id": 4,
     "Nom": "Son Goku SSJ3",
-    "ImageURL": "https://tse3.mm.bing.net/th?id=OIP.7cjp--DZgy4zqAe7Rr6x3wHaD7&pid=Api",
+    "ImageURL": "",
     "Status": "Hero de l'histoire",
     "Race": "Saiyen",
     "Planete d'origine": "Vegeta",
@@ -55,9 +49,7 @@
     "Groupe": "Z-fighter",
     "Technique": "Kame hame ha, Teleportation, Zanzoken, Buku Jutsu, Taiyoken, Kienzan, mafuba",
     "Capacite Speciale": "Augmente de 100x la force de base",
-    "Description": "???",
-    "ImageURL2": "https://i.pinimg.com/736x/b2/6d/58/b26d5884099ae95963d7bd8b3052cc16.jpg",
-    "ImageURL3": "https://i.pinimg.com/originals/cc/31/44/cc31448d02f1cbe6c23362e3e86a5a14.png"
+    "Description": "???"
   },
   {
     "Id": 5,
@@ -70,9 +62,7 @@
     "Groupe": "Z-fighter",
     "Technique": "Kame hame ha, Teleportation, Zanzoken, Buku Jutsu, Taiyoken, Kienzan, mafuba",
     "Capacite Speciale": "Ki indetectable",
-    "Description": "???",
-    "ImageURL2": "",
-    "ImageURL3": ""
+    "Description": "???"
   },
   {
     "Id": 6,
@@ -85,9 +75,7 @@
     "Groupe": "Z-fighter",
     "Technique": "Kame hame ha, Teleportation, Zanzoken, Buku Jutsu, Taiyoken, Kienzan, mafuba",
     "Capacite Speciale": "Ki indetectable",
-    "Description": "???",
-    "ImageURL2": "",
-    "ImageURL3": ""
+    "Description": "???"
   },
   {
     "Id": 7,
@@ -99,10 +87,8 @@
     "Univers": 7,
     "Groupe": "Z-fighter",
     "Technique": "???",
-    "Capacite Speciale": "Gagne en puissance a chaque fois qu'il frole la mort",
-    "Description": "???",
-    "ImageURL2": "",
-    "ImageURL3": ""
+    "Capacite Speciale": "Gagne en puissance � chaque fois qu'il fr�le la mort",
+    "Description": "???"
   },
   {
     "Id": 8,
@@ -115,9 +101,7 @@
     "Groupe": "Z-fighter",
     "Technique": "???",
     "Capacite Speciale": "Augmente de 10x la force de base",
-    "Description": "???",
-    "ImageURL2": "",
-    "ImageURL3": ""
+    "Description": "???"
   },
   {
     "Id": 9,
@@ -130,9 +114,7 @@
     "Groupe": "Z-fighter",
     "Technique": "???",
     "Capacite Speciale": "???",
-    "Description": "???",
-    "ImageURL2": "",
-    "ImageURL3": ""
+    "Description": "???"
   },
   {
     "Id": 10,
@@ -145,9 +127,7 @@
     "Groupe": "Z-fighter",
     "Technique": "???",
     "Capacite Speciale": "Ki indetectable",
-    "Description": "???",
-    "ImageURL2": "",
-    "ImageURL3": ""
+    "Description": "???"
   },
   {
     "Id": 11,
@@ -160,9 +140,7 @@
     "Groupe": "Z-fighter",
     "Technique": "???",
     "Capacite Speciale": "Ki indetectable",
-    "Description": "???",
-    "ImageURL2": "",
-    "ImageURL3": ""
+    "Description": "???"
   },
   {
     "Id": 12,
@@ -175,8 +153,6 @@
     "Groupe": "Z-fighter",
     "Technique": "???",
     "Capacite Speciale": "Ki indetectable",
-    "Description": "???",
-    "ImageURL2": "",
-    "ImageURL3": ""
+    "Description": "???"
   }
 ]
