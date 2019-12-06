@@ -1,12 +1,19 @@
 [
   {
-    "Id": 1,
-    "Status": "Hero de l'histoire",
-    "Race": "Saiyen",
-    "Planete": "Vegeta",
-    "Univers": "7",
-    "Groupe": "Z-fighter",
-    "Technique": "- Kame hame ha
+  "Goku":[
+    
+    "Normal":[ 
+        "Id": 1,
+        "Nom": "Son Goku",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/it/4/48/Son_Goku_-_Dragon_Ball_Kai.png",
+        "Capacite": "Gagne en puissance a chaque fois qu'il frole la mort",
+        "Description": "Son Goku est le principal protagoniste des mangas Dragon Ball et Dragon Ball Super, et des leurs adaptations animees, Dragon Ball et Dragon Ball Z / Dragon Ball Kai, puis Dragon Ball Super, ainsi que de la suite anim�e des deux premi�res s�ries, Dragon Ball GT.\n\nDernier orphelin exil� de la d�funte plan�te Vegeta, il atterrit sur Terre o� il grandit avec son grand-p�re adoptif puis seul, apr�s avoir tu� accidentellement celui-ci. Son aventure commence le jour o� il rencontre Bulma, une jeune aventuri�re, qui l'invite � chercher les Dragon Balls..."
+        "Status": "Hero de l'histoire",
+        "Race": "Saiyen",
+        "Planete": "Vegeta",
+        "Univers": "7",
+        "Groupe": "Z-fighter",
+        "Technique": "- Kame hame ha
 - Teleportation
 - Kaio-ken
 - Genki dama
@@ -14,19 +21,35 @@
 - Buku Jutsu
 - Taiyoken, Kienzan
 - Mafuba
-- Migate no gokui", 
-
-   "Nom0": "Son Goku",
-   "ImageURL0": "https://upload.wikimedia.org/wikipedia/it/4/48/Son_Goku_-_Dragon_Ball_Kai.png",
-   "Capacite0": "Gagne en puissance a chaque fois qu'il frole la mort",
-   "Description0": "Son Goku est le principal protagoniste des mangas Dragon Ball et Dragon Ball Super, et des leurs adaptations animees, Dragon Ball et Dragon Ball Z / Dragon Ball Kai, puis Dragon Ball Super, ainsi que de la suite anim�e des deux premi�res s�ries, Dragon Ball GT.\n\nDernier orphelin exil� de la d�funte plan�te Vegeta, il atterrit sur Terre o� il grandit avec son grand-p�re adoptif puis seul, apr�s avoir tu� accidentellement celui-ci. Son aventure commence le jour o� il rencontre Bulma, une jeune aventuri�re, qui l'invite � chercher les Dragon Balls..."
- 
-  "Nom1": "Son Goku SSJ1",
-  "ImageURL1": "http://vignette3.wikia.nocookie.net/dragonball/images/7/77/SSJ_Goku_by_aznfanaticwarrior.png/revision/latest?cb=20120703070637",
-  "Capacite1": "Augmente de 10x la force de base",
-  "Description1": "Son Goku apres avoir vu sous ses yeux l'assassinat de Krilin par Freezer se transforme alors en Super Saiyan."
- },
+- Migate no gokui",
+      ],
+      
+      "SSJ1":[
+        "Id": 2,
+        "Nom": "Son Goku SSJ1",
+        "ImageURL": "http://vignette3.wikia.nocookie.net/dragonball/images/7/77/SSJ_Goku_by_aznfanaticwarrior.png/revision/latest?cb=20120703070637",
+        "Capacite": "Augmente de 10x la force de base",
+        "Description": "Son Goku apres avoir vu sous ses yeux l'assassinat de Krilin par Freezer se transforme alors en Super Saiyan."
+        "Status": "Hero de l'histoire",
+        "Race": "Saiyen",
+        "Planete": "Vegeta",
+        "Univers": "7",
+        "Groupe": "Z-fighter",
+        "Technique": "- Kame hame ha
+- Teleportation
+- Kaio-ken
+- Genki dama
+- Zanzoken
+- Buku Jutsu
+- Taiyoken, Kienzan
+- Mafuba
+- Migate no gokui",
+      ]
+  ]
+},
  {
+ "Vegeta":[
+    "Normal":[
     "Id": 3,
     "Nom": "Vegeta",
     "ImageURL": "https://upload.wikimedia.org/wikipedia/it/f/ff/Vegeta_-_Dragon_Ball_Kai.png",
@@ -42,9 +65,13 @@
 - Explosion Final",
     "Capacite": "Gagne en puissance a chaque fois qu'il frole la mort",
     "Description": "Prince des Saiyans, il est d'abord introduit comme un antagoniste lors la Saga Saiyan avant de devenir progressivement un allie des heros puis un des protagonistes principaux des la Saga des Humains Artificiels. Orgueilleux, Vegeta devient l'incarnation de l'anti-héros ainsi que le rival attitre de Son Goku au cours de l'histoire. "
-  },
+     ]
+  ]
+ },
   {
-  "Id": 3,
+  "Gohan":[
+    "Normal":[
+    "Id": 3,
     "Nom": "Son Gohan",
     "ImageURL": "https://comicvine1.cbsistatic.com/uploads/original/11115/111153050/3779877-6973392383-mysti.png",
     "Status": "Saiyan pacifiste",
@@ -59,8 +86,12 @@
 - Zanzoken",
     "Capacite": "Gagne en puissance a chaque fois qu'il frole la mort",
     "Description": "Premier fils de Son Goku et de Chichi, son potentiel de puissance surpasse de loin celui de son pere et combattra aux cotes des protagonistes des son plus jeune age. Atout majeur de l'equipe qui a notamment vaincu Cell, il cesse de s'entraîner sérieusement apres 7 ans de paix et s'éclipse peu a peu, se concentrant sur son travail scientifique et sa vie de famille avec son epouse et sa fille. Il reste cependant present lors de combats majeurs tels que la menace de Majin Boo ou encore le Tournoi du Pouvoir. "
-  },
+    ]
+  ]  
+ },
    {
+   "Piccolo":[
+      "Normal":[
     "Id": 4,
     "Nom": "Piccolo",
     "ImageURL": "http://suptg.thisisnotatrueending.com/archive/42624918/images/1442788510122.jpg",
@@ -76,5 +107,7 @@
 - Mafuba",
     "Capacite": "Regenerer ses membres s'ils sont coupes. Peut également les allonger.",
     "Description": "Piccolo est l'un des personnages principaux de Dragon Ball. Il est le fils de Piccolo Daimao, et aussi en quelque sorte sa reincarnation et le rival de Son Goku. Strategiste sage et expert qui etait a l'origine un ennemi implacable de Goku, Piccolo devient plus tard un membre permanent des Z-Fighters lors de la serie Dragon Ball Z, en particulier lorsqu'il forme un lien etroit avec le fils de Goku, Son Gohan, apres l'avoir forme en preparation de l'arrivee imminente de les Saiyans et d'autres menaces futures. "
+      ]
+   ] 
   }
 ]
