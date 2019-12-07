@@ -7,12 +7,10 @@
       "Race": "Saiyen",
       "Transformation":[
          {
-        "Stade":"",
-        "ImageURL": "https://upload.wikimedia.org/wikipedia/it/4/48/Son_Goku_-_Dragon_Ball_Kai.png"
+        "Stade":"Normal"
         },
         {
-        "Stade": "SSJ1",
-        "ImageURL": "http://vignette3.wikia.nocookie.net/dragonball/images/7/77/SSJ_Goku_by_aznfanaticwarrior.png/revision/latest?cb=20120703070637"
+        "Stade": "SSJ1"
         }
       ]
       },{
@@ -26,11 +24,9 @@
     "Groupe": "Z-fighter",
     "Transformation":[
       {
-      "Stade": "",
-      "ImageURL": "https://upload.wikimedia.org/wikipedia/it/f/ff/Vegeta_-_Dragon_Ball_Kai.png"
+      "Stade": "Normal"
       },{
-      "Stade":"",
-      "ImageURL": "https://upload.wikimedia.org/wikipedia/it/f/ff/Vegeta_-_Dragon_Ball_Kai.png"
+      "Stade":"SSJ1"
       }
      ]
   }
