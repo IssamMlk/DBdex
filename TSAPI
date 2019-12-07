@@ -1,6 +1,7 @@
 [
   {
       "Id": 1,
+      "ImageURL": "https://upload.wikimedia.org/wikipedia/it/4/48/Son_Goku_-_Dragon_Ball_Kai.png",
       "Status": "Hero de l'histoire",
       "Race": "Saiyen",
       "Planete": "Vegeta",
@@ -24,6 +25,7 @@
       ]
       },{
     "Id": 2,
+    "ImageURL": "https://upload.wikimedia.org/wikipedia/it/f/ff/Vegeta_-_Dragon_Ball_Kai.png",
     "Status": "Prince des Saiyens",
     "Race": "Saiyen",
     "Planete": "Vegeta",
