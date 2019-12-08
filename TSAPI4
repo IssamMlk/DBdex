@@ -5,7 +5,7 @@
       "ImageURL": "https://upload.wikimedia.org/wikipedia/it/4/48/Son_Goku_-_Dragon_Ball_Kai.png",
       "Status": "Hero de l'histoire",
       "Race": "Saiyen",
-      "Transformation":["Normal","SSJ1"]
+      "Transformation":["","SSJ1","SSJ2"]
       },{
     "Id": 2,
     "Nom": "Vegeta",
@@ -15,7 +15,7 @@
     "Planete": "Vegeta",
     "Univers": 7,
     "Groupe": "Z-fighter",
-      "Transformation":["Normal","SSJ1"]
+      "Transformation":["Normal","SSJ1","Majin Vegeta"]
   }
 ]
 
