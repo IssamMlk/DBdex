@@ -8,15 +8,15 @@
       "Transformation":[
                         {
                          "Stade":"",
-                         "Test": "https://upload.wikimedia.org/wikipedia/it/4/48/Son_Goku_-_Dragon_Ball_Kai.png"
+                         "Test": "test"
                         },
                         {
                          "Stade":"SSJ1",
-                         "Test": "http://vignette3.wikia.nocookie.net/dragonball/images/7/77/SSJ_Goku_by_aznfanaticwarrior.png/revision/latest?cb=20120703070637"
+                         "Test": "test"
                         },
                         {
                           "Stade":"SSJ2",
-                          "Test":"https://tse1.mm.bing.net/th?id=OIP.o86D8BgvxohMHS72boaSSQHaFj&pid=Api"
+                          "Test":"test"
                         }
                        ]
       },{
@@ -31,15 +31,15 @@
     "Transformation":[
                         {
                          "Stade":"",
-                         "Test": "https://upload.wikimedia.org/wikipedia/it/f/ff/Vegeta_-_Dragon_Ball_Kai.png"
+                         "Test": "test"
                         },
                         {
                          "Stade":"SSJ1",
-                         "Test": "https://comicvine1.cbsistatic.com/uploads/original/11113/111136107/3959098-1397723110-SSJ_V.png"
+                         "Test": "test"
                         },
                         {
                           "Stade":"Majin",
-                          "Test":"https://respawning.co.uk/app/uploads/2018/01/DBZ4.jpg"
+                          "Test":"test"
                         }
                     ]
   }
